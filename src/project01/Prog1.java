@@ -6,6 +6,8 @@ public class Prog1 {
 		System.out.println("My name is vikash");
 		System.out.println("My name is vikash kumar");
 		System.out.println("Automation tester");
+		System.out.println("i am tester");
+
 	}
 
 }
